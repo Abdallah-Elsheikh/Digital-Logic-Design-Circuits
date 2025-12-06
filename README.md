@@ -25,5 +25,10 @@ This repository demonstrates my understanding of **Computer Architecture** and *
 ---
 
 ## 🛠️ Tools Used
-- **Software:** NI Multisim
-- **Concepts:** Digital Logic, Boolean Algebra, Circuit Simulation.
+- **Software:** NI Multisim (Circuit Design Suite)
+- **Concepts:** Boolean Algebra, Combinatorial & Sequential Logic, Circuit Simulation.
+
+## How to Run
+1. Download the `.ms11` files.
+2. Open them using **NI Multisim**.
+3. Run the simulation (F5) to see the logic in action.
